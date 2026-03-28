@@ -27,23 +27,21 @@ Rather than focusing only on visuals, I wanted to explore how interaction can de
 ##  Cinderella
 
 <p align="center">
-<img src="images/cinderella.png" width="450"/>
+<img src="images/cinderella.png" width="500"/>
 </p>
 
 ---
 
 ##  Pinocchio
-
 <p align="center">
-<img src="images/pinocchio.png" width="600"/>
+<img src="images/pinocchio.png" width="630"/>
 </p>
 
 ---
 
 ##  Cheshire Cat
-
 <p align="center">
-<img src="images/cheshire.png" width="350"/>
+<img src="images/cheshire.png" width="380"/>
 </p>
 
 
