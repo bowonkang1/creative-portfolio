@@ -38,7 +38,7 @@ I focused on layering to build texture and make the trunk and branches feel more
 </p>
 
 This piece is based on a small memory from when I was younger.  
-I couldn’t bend my toes, and I thought something was wrong with my foot, while my sister would make fun of it.
+I couldn’t spread my toes, and I thought something was wrong with my foot, while my sister would make fun of it.
 
 I used casts of my actual hand and foot, and intentionally hung the foot so that the toes become the main focus.  
 The hand is pointing directly at it, almost like saying “look at this.”
