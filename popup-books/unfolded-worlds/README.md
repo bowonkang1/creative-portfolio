@@ -4,7 +4,7 @@ This series is a collection of pop-up paper works where I explore how flat surfa
 
 ---
 
-## 🌊 Folded Waves
+##  Folded Waves
 
 <img src="images/folded-waves.png" width="500"/>
 
@@ -13,7 +13,7 @@ I experimented with layering to make the waves feel like they’re flowing forwa
 
 ---
 
-## 🎨 Composed Chaos
+##  Composed Chaos
 
 <img src="images/composed-chaos.png" width="500"/>
 
@@ -22,7 +22,7 @@ It’s a bit chaotic, but still feels balanced overall.
 
 ---
 
-## 🌱 Folded Garden
+##  Folded Garden
 
 <img src="images/folded-garden.png" width="400"/>
 
@@ -31,7 +31,7 @@ I focused on how small elements could build up into a scene that feels alive.
 
 ---
 
-## 👥 Shared Space
+##  Shared Space
 
 <img src="images/shared-space.png" width="400"/>
 
@@ -40,6 +40,6 @@ I tried to keep it simple, but still show a sense of interaction.
 
 ---
 
-## 🧩 Overall
+##  Overall
 
 Across all of these, I was mainly exploring how structure and space can influence perception, and how something flat can become interactive.
