@@ -6,7 +6,7 @@ This series is a collection of pop-up paper works where I explore how flat surfa
 
 ##  Folded Waves
 
-<img src="images/folded-waves.png" width="500"/>
+<img src="images/folded-waves.png" width="600"/>
 
 This piece started from the idea of capturing movement using repeated shapes.  
 I experimented with layering to make the waves feel like they’re flowing forward, even though everything is static.
@@ -15,7 +15,7 @@ I experimented with layering to make the waves feel like they’re flowing forwa
 
 ##  Composed Chaos
 
-<img src="images/composed-chaos.png" width="500"/>
+<img src="images/composed-chaos.png" width="700"/>
 
 I wanted to play with contrast here—structured shapes mixed with more organic lines.  
 It’s a bit chaotic, but still feels balanced overall.
@@ -24,7 +24,7 @@ It’s a bit chaotic, but still feels balanced overall.
 
 ##  Folded Garden
 
-<img src="images/folded-garden.png" width="400"/>
+<img src="images/folded-garden.png" width="450"/>
 
 This was an attempt to recreate something natural using simple paper structures.  
 I focused on how small elements could build up into a scene that feels alive.
@@ -33,7 +33,7 @@ I focused on how small elements could build up into a scene that feels alive.
 
 ##  Shared Space
 
-<img src="images/shared-space.png" width="400"/>
+<img src="images/shared-space.png" width="450"/>
 
 This piece is more about people and how they exist together in the same space.  
 I tried to keep it simple, but still show a sense of interaction.
