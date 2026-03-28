@@ -40,6 +40,4 @@ I tried to keep it simple, but still show a sense of interaction.
 
 ---
 
-##  Overall
 
-Across all of these, I was mainly exploring how structure and space can influence perception, and how something flat can become interactive.
