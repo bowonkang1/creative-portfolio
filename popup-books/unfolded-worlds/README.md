@@ -1,7 +1,6 @@
 # Unfolded Worlds
 
-This series is a collection of pop-up paper works where I explore how flat surfaces can turn into something more dimensional.  
-I was especially interested in how folding, layering, and structure can change the way we see and experience space.
+This series is a collection of pop-up paper works where I explore how flat surfaces can turn into something more dimensional. I was especially interested in how folding, layering, and structure can change the way we see and experience space.
 
 ---
 
