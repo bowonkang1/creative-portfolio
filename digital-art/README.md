@@ -47,6 +47,6 @@ I focused on capturing the atmosphere while simplifying the shapes and colors.
   <img src="images/everything-4.png" width="350"/>
 </p>
 
-I made this series of posters to explore ideas of calm and reassurance.
+I made this series of posters to explore calm and reassurance, using contrast between the background and the text to emphasize the message.
 
 [View Full Series (PDF)](everything-will-be-ok.pdf)
