@@ -1,6 +1,10 @@
 # Unfolded Worlds
 
-This series is a collection of pop-up paper works where I explore how flat surfaces can turn into something more dimensional. I was especially interested in how folding, layering, and structure can change the way we see and experience space.
+This series explores how flat paper can transform into dimensional forms. I focused on how folding, layering, and structure can change the way we perceive and experience space.
+
+Since this was part of a paper engineering class, I also paid close attention to how each piece folds and unfolds, thinking about the underlying structure and mechanisms behind the movement.
+
+I spent time thinking about color combinations and patterns to make each piece feel bright and eye-catching, while still working well together as a whole.
 
 ---
 
@@ -8,8 +12,7 @@ This series is a collection of pop-up paper works where I explore how flat surfa
 
 <img src="images/folded-waves.png" width="600"/>
 
-This piece started from the idea of capturing movement using repeated shapes.  
-I experimented with layering to make the waves feel like they’re flowing forward, even though everything is static.
+I used repeated shapes and layering to create a sense of movement, making the waves feel like they are flowing forward even though the structure is static.
 
 ---
 
@@ -17,8 +20,7 @@ I experimented with layering to make the waves feel like they’re flowing forwa
 
 <img src="images/composed-chaos.png" width="700"/>
 
-I wanted to play with contrast here—structured shapes mixed with more organic lines.  
-It’s a bit chaotic, but still feels balanced overall.
+I explored contrast by combining structured shapes with more organic lines, creating a composition that feels chaotic but still balanced.
 
 ---
 
@@ -26,7 +28,7 @@ It’s a bit chaotic, but still feels balanced overall.
 
 <img src="images/folded-garden.png" width="450"/>
 
-This was an attempt to recreate something natural using simple paper structures.  
+This was an attempt to recreate something natural using simple paper structures. 
 I focused on how small elements could build up into a scene that feels alive.
 
 ---
