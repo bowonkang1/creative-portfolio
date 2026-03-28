@@ -25,7 +25,7 @@ It’s a bit chaotic, but still feels balanced overall.
 
 ## 🌱 Folded Garden
 
-<img src="images/folded-garden.png" width="300"/>
+<img src="images/folded-garden.png" width="400"/>
 
 This was an attempt to recreate something natural using simple paper structures.  
 I focused on how small elements could build up into a scene that feels alive.
@@ -34,7 +34,7 @@ I focused on how small elements could build up into a scene that feels alive.
 
 ## 👥 Shared Space
 
-<img src="images/shared-space.png" width="300"/>
+<img src="images/shared-space.png" width="400"/>
 
 This piece is more about people and how they exist together in the same space.  
 I tried to keep it simple, but still show a sense of interaction.
