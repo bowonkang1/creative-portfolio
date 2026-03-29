@@ -49,4 +49,3 @@ I focused on capturing the atmosphere while simplifying the shapes and colors.
 
 I made this series of posters to explore calm and reassurance, using contrast between the background and the text to emphasize the message.
 
-[View Full Series (PDF)](everything-will-be-ok.pdf)
