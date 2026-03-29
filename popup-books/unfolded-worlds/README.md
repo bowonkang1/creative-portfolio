@@ -8,6 +8,12 @@ I spent time thinking about color combinations and patterns to make each piece f
 
 ---
 
+##  Cover
+
+<img src="images/cover.png" width="600"/>
+
+---
+
 ##  Folded Waves
 
 <img src="images/folded-waves.png" width="600"/>
