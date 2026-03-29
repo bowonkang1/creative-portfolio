@@ -1,6 +1,7 @@
 # Disney Pop-Up Book
 
-This project started when I was thinking a lot about my direction and future. I picked quotes from Disney stories that felt personal to me and tried to turn them into something physical and interactive. Each page uses simple pop-up or sliding elements to reveal the message. Instead of focusing only on how it looks, I was more interested in how interaction could make the experience feel a bit more personal.
+This project started when I was thinking a lot about my direction and future. 
+I picked quotes from Disney stories that felt personal to me and tried to turn them into something physical and interactive. Each page uses simple pop-up or sliding elements to reveal the message. Instead of focusing only on how it looks, I was more interested in how interaction could make the experience feel a bit more personal.
 
 
 
@@ -12,6 +13,10 @@ This project started when I was thinking a lot about my direction and future. I 
 <p align="center">
 <img src="images/cover.png" width="500"/>
 </p>
+
+The cover introduces the tone of the book, using color and imagery to reflect the message of growth and encouragement.
+The full book includes 10 pages, and a few selected pages are shown here.
+
 
 ---
 
